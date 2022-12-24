@@ -6,6 +6,6 @@ The special case of c=i on the boundary of the Mandelbrot set is called a dendri
 The equation for the quadratic Julia set is a conformal mapping, so angles are preserved. Let J be the Julia set, then x^->x leaves J invariant. If a point P is on J, then all its iterations are on J. The transformation has a two-valued inverse. If b=0 and y is started at 0, then the map is equivalent to the logistic map. The set of all points for which J is connected is known as the Mandelbrot set. For a Julia set $J_c$ with c<<1, the capacity dimension is
 
 
-4d_(capacity)=1+(|c|^2)/(4ln2)+O(|c|^3).$	
+$4d_(capacity)=1+(|c|^2)/(4ln2)+O(|c|^3).$	
 
 For small c, $J_c$ is also a Jordan curve, although its points are not computable.
